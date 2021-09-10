@@ -81,7 +81,7 @@ public class Main {
         // findbyid reiziger
         System.out.println("\n---------- findbyid reiziger -------------");
         System.out.println();
-        System.out.println(rdao.findById(6));
+        System.out.println(rdao.findById(5));
 
         // findByGbdatum gbdatum
         System.out.println("\n---------- findByGbdatum reiziger -------------");
